@@ -1,0 +1,4 @@
+INSERT INTO delivery_method
+VALUES(0,'W lokacji'),
+(1,'Kurier'),
+(2,'Paczkomat');

@@ -1,0 +1,6 @@
+INSERT INTO local
+VALUES(0,'Insrnet'),
+(1,'Warszawa'),
+(2,'Warszawa'),
+(3,'Krakow'),
+(4,'Ludzi');

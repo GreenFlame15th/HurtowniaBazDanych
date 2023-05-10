@@ -1,0 +1,4 @@
+INSERT INTO genre
+VALUES(0,'Fantastyka'),
+(1,'Literatura tradycyjna'),
+(2,'Naukowe');

@@ -1,0 +1,5 @@
+INSERT INTO author
+VALUES(0,'Adam','Mickiewicz',''),
+(1,'','','Homer'),
+(2,'John','Flanagan',''),
+(3,'Ian','Stewart','');
